@@ -9,7 +9,7 @@
 ---
 
 ## 1. Nhận định của tôi trước khi hỏi AI
-Tôi đã xây dựng xong khung nội dung HTML (`index.html` và `ket-qua.html`) bao gồm các phần: Giới thiệu, Kỹ năng, Dự án, Thời khóa biểu, Mục tiêu đại học và Biểu mẫu liên hệ. Tuy nhiên, trang web vẫn ở dạng văn bản thô, chưa có bố cục rõ ràng, màu sắc hài hòa hay khả năng co giãn trên điện thoại.Nên tôi cần hỏi AI về css
+Tôi đã xây dựng xong khung nội dung HTML (`index.html` và `ket-qua.html`) bao gồm các phần: Giới thiệu, Kỹ năng, Dự án, Thời khóa biểu, Mục tiêu đại học và Biểu mẫu liên hệ. Tuy nhiên, trang web vẫn ở dạng văn bản thô, chưa có bố cục rõ ràng, màu sắc hài hòa hay khả năng co giãn trên điện thoại,nên tôi cần hỏi AI về css.Trong phần HTMl tôi có nhờ AI chỉ ra giúp tôi phần mục tiêu đại học và được AI gợi ý
 ## 2. Tôi hỏi AI và nhận được gợi ý
 Tôi đã cung cấp thông tin trang web và nhờ AI tạo tệp CSS (`css/style.css`) phù hợp với trình độ sinh viên Công nghệ Thông tin năm nhất. AI đã gợi ý mã nguồn CSS hoàn chỉnh với giao diện sáng (Light Mode), bố cục Flexbox, định dạng bảng biểu, thẻ nội dung và Responsive cơ bản.
 
